@@ -1,0 +1,14 @@
+:root {
+    --background: #060608;
+    --font-color: #fafafa;
+    --font-button-color: #aaffaa;
+}
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: var(--background);
+    color: var(--font-color);
+}
